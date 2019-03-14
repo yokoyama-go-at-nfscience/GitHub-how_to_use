@@ -1,2 +1,3 @@
-# GitHub-how_to_use
-GitHubのつかいかた
+# README.mdでリポジトリを訪れたとき自動で表示されます.
+
+使い方は[How_to_use.md](./)を
