@@ -1,4 +1,5 @@
 # README.mdでリポジトリを訪れたとき自動で表示されます.
 
-使い方は[How_to_use.md](./How_to_use.md)を
+使い方は[How_to_use.md](./How_to_use.md)を  
+
 実際の使い方は該当するところにかいてあります.なにかを探す感覚でGitHubの使い方をしってください.
